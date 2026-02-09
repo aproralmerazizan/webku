@@ -1,5 +1,19 @@
 body
 {
-background-color:blue;
-
+  background:#white;
+  color:cyan;
+  width:100%;
+  font-family:comic-sans;
+  margin:0 auto;
 }
+
+.header{
+  width:90%;
+  margin:auto;
+  height:120px;
+  line-height:120px;
+  background:#005998c;
+  color:#fff;
+}
+  
+
