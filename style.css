@@ -20,13 +20,12 @@ body{
 }
 
 .menu{
-  background-color:#417aa8;
+  width:90%;
+  margin:auto;
   height:50px;
   line-height:50px;
-  position:relative;
-  widht:90%;
-  margin:0 auto;
-  padding:0 auto;
+  background:#417aa8;
+  color:#fff;
 }
 
 
